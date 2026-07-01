@@ -221,6 +221,33 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 # ─────────── Movies───────────
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", HBO 2
+http://fastshare1.com/live/25711345/late8airline/185.ts
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", Star Movies HD
+http://fastshare1.com/live/25711345/late8airline/979.ts
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", Star Movies FHD
+http://fastshare1.com/live/25711345/late8airline/9384.ts
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", Star Movies 4K
+http://fastshare1.com/live/25711345/late8airline/98842.ts
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", Star Movies Select HD
+http://fastshare1.com/live/25711345/late8airline/218.ts
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", Star Movies Select FHD
+http://fastshare1.com/live/25711345/late8airline/23270.ts
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", Star Movies Select 4K
+http://fastshare1.com/live/25711345/late8airline/98843.ts
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", Sony Pix
+http://fastshare1.com/live/25711345/late8airline/9381.ts
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", Movies Now
+http://fastshare1.com/live/25711345/late8airline/152387.ts
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/E86bN6IAxl.jpg", Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
@@ -249,28 +276,13 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8?token=3cb50ef3d94ad1661590b7d21df6f5f56856da25-0e28ff981157c82e879c35fbff082361-1776169972-1776166372
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/4mRBs1A-x_.png", Sony Max HD
-http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8?token=3cb50ef3d94ad1661590b7d21df6f5f56856da25-0e28ff981157c82e879c35fbff082361-1776169972-1776166372
+http://fastshare1.com/live/25711345/late8airline/9373.ts
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/4mRBs1A-x_.png", Sony Max 2
 http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8?token=3cb50ef3d94ad1661590b7d21df6f5f56856da25-0e28ff981157c82e879c35fbff082361-1776169972-1776166372
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/Nkj7hqlPz-.jpg", Star Gold
-http://198.195.239.50:8095/StarGold/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", HBO
-http://103.213.31.111/HBOHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", Star Movies Select
-http://66.102.126.10:8000/play/a020/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", Star Movies Select B
-http://202.70.146.135:8000/play/a06q/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", Star Movies
-http://66.102.126.10:8000/play/a021/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", Star Movies B
-http://202.70.146.135:8000/play/a06r/index.m3u8
+http://fastshare1.com/live/25711345/late8airline/9375.ts
 
 # ─────────── Music───────────
 
