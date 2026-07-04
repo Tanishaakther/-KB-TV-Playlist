@@ -6,10 +6,10 @@ https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/0/master_1500.m3u8?h
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", BTV NS
-http://180.94.28.28:8097//BTV/index.fmp4.m3u8?token=8e9616c21d1ce3454bb9171c3c68550574f121aa-12a55987e1a817f2a4c12b2cfa6c3b78-1776169971-1776166371
+http://180.94.28.28:8097/BTV/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV NS
-http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8?token=4fde3d8957e50f434586227e0235025478768f0e-ed9e7afca3040a69f8179bfff33845e0-1776169971-1776166371
+http://180.94.28.28:8097/Somoy-TV/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TSN 1 WC
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/748388.ts
@@ -99,19 +99,15 @@ http://103.14.151.101:11/manik-kuttar-baccha-telegram-batpar.m3u8
 http://114.130.57.233:8080/manik-kutta-moharaza-kuttar-baccha-t.me/tvserverhd/video.m3u8?token=manik-kuttar-baccha-t.me/tvserverhd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV 
-http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+http://114.130.57.233:8080/Somoy-TV-3Mb/index.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV A
-http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/somoyTv/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV B 
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV C 
-https://iptv.ryvoxtb.workers.dev/live/somoytv.m3u8?token=698bb62d6919e5c22ec8be7a017971f5&time=1781488364
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV D
-https://tv.beyondtaxconsultants.com/api/robi/lps/http://116.204.149.16/somoytv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Mahsun Sports
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
@@ -193,21 +189,24 @@ http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/276767.ts
 
 # ─────────── Entertainment───────────
 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Star Jalsha NS
+http://180.94.28.28:8097/STAR-JALSHA/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Star Jalsha
 http://fastshare1.com/live/25711345/late8airline/198.ts
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Star Jalsha B
 http://fastshare1.com/live/25711345/late8airline/23218.ts
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Star Jalsha C
 http://fastshare1.com/live/25711345/late8airline/98883.ts
-
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png", Zee Bangla NS
+http://180.94.28.28:8097/ZEE-BANGLA/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png", Zee Bangla
 http://fastshare1.com/live/25711345/late8airline/23305.ts
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png", Zee Bangla B
 http://fastshare1.com/live/25711345/late8airline/98881.ts
-
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/oDQ4LN8zlN.png", Colors Bangla NS
+http://180.94.28.28:8097/COLORS-BANGLA/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/oDQ4LN8zlN.png", Colors Bangla
 http://fastshare1.com/live/25711345/late8airline/183.ts
 
@@ -216,21 +215,15 @@ http://fastshare1.com/live/25711345/late8airline/23306.ts
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/oDQ4LN8zlN.png", Colors Bangla C
 http://fastshare1.com/live/25711345/late8airline/98882.ts
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/vyWRYIqnfy.png", Sun Bangla
-http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/3753.ts
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/vyWRYIqnfy.png", Sun Bangla B
-http://180.94.28.28:8097//SUN-BANGLA/index.fmp4.m3u8?token=ddf83cdff5d2a3215579fa2d1303886e18ab6d5c-749917c00731c4d6f44b52a2cfc14557-1776169972-1776166372
-
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/vyWRYIqnfy.png", Sun Bangla nS
+http://180.94.28.28:8097/SUN-BANGLA/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="", Enter10 Bangla
 http://fastshare1.com/live/25711345/late8airline/3801.ts
-
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/5tDvvUEpWx.png", Sony Aath NS
+http://180.94.28.28:8097/SONY-AATH/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/5tDvvUEpWx.png", Sony Aath
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/4083.ts
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/5tDvvUEpWx.png", Sony Aath B
-https://sm-monirul.top/toffee/play/sonyaath.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/1_dUKmt1Oe.png", G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
@@ -276,8 +269,8 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/E86bN6IAxl.jpg", Goldmines Bollywood
 https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/hEzUhoTW3x.jpg", Jalsha Movies
-http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8?token=db2538fdd0d868b1f01d342ee7929f62a5083d97-7601b35e404354f1cb113317091539cf-1776169971-1776166371
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/hEzUhoTW3x.jpg", Jalsha Movies NS
+http://180.94.28.28:8097/JALSHA-MOVIES/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", Hindi Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
@@ -291,19 +284,20 @@ https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", Action Hollywood
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/4mRBs1A-x_.png", Song Max
-http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8?token=3cb50ef3d94ad1661590b7d21df6f5f56856da25-0e28ff981157c82e879c35fbff082361-1776169972-1776166372
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/4mRBs1A-x_.png", Song Max NS
+http://180.94.28.28:8097/SONY-MAX/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/4mRBs1A-x_.png", Sony Max HD
 http://fastshare1.com/live/25711345/late8airline/9373.ts
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/4mRBs1A-x_.png", Sony Max 2
-http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8?token=3cb50ef3d94ad1661590b7d21df6f5f56856da25-0e28ff981157c82e879c35fbff082361-1776169972-1776166372
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/Nkj7hqlPz-.jpg", Star Gold
 http://fastshare1.com/live/25711345/late8airline/9375.ts
 
 # ─────────── Music───────────
+
+#EXTINF:-1 group-title="Music" tvg-logo="", 9XM
+https://wiselp.wiseplayout.com/9XM/master.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", 9X Tashan
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
